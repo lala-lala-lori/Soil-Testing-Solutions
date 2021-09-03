@@ -4,13 +4,14 @@
 body{
 	background-image: url("https://images.wallpaperscraft.com/image/field_clouds_horizon_123523_3840x2400.jpg");
 	background-repeat: no-repeat;
-	background-size: 100%vh auto;
+	background-size: 100vw 100vh;
 
 }
 
 .container{
 	color: white;
-	margin-top: 10vh;
+	opacity: 0.9;
+	margin-top: 10vh !important;
 }
 
 html{
